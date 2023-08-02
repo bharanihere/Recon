@@ -15,4 +15,4 @@ https://github.com/six2dez/reconftw
 ReconFTW automates the process of recon for you. 
 It performs “recon++” & can be used to run some cursory automated vulnerability checks like XSS, Open Redirects, SSRF, CRLF, LFI, SQLi, & more. 
 
-Happy
+
