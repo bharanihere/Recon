@@ -1,0 +1,8 @@
+An advanced user of ReconFTW is the master of the config files for the framework and its underlying tools. 
+The ReconFTW config file is also where you can tune, globally, what kind of enumeration and scanning the tool does.
+
+You can control how fast it scans, proxy settings, which vuln checks, which wordlists, which ports, timeout options, etc.
+
+https://github.com/six2dez/reconftw/wiki/3.-Configuration-file
+
+

@@ -1,0 +1,18 @@
+Anti Recon - ReconFTW
+
+#Recon is important, but some people hate it. I get it.
+When you're in the zone & ready to pounce on a target, you just want to start hacking.
+Want the best of both worlds? Quick/complete recon, WITH great coverage?
+
+This gives you a complete picture of an orgs subdomains & starts some cursory analysis of them.
+Doing this individually is time-consuming. So...
+ for the 
+⭐️  low-low cost of the initial setup time ⭐️ 
+you can get GREAT recon++ & you don’t have to be a recon-head to get it!
+
+https://github.com/six2dez/reconftw
+
+ReconFTW automates the process of recon for you. 
+It performs “recon++” & can be used to run some cursory automated vulnerability checks like XSS, Open Redirects, SSRF, CRLF, LFI, SQLi, & more. 
+
+Happy

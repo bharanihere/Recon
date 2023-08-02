@@ -1,1 +1,6 @@
-1
+1  Install ReconFTW
+2⃣  Register for APIs and services
+3⃣  Copy my config file
+4⃣  Add API keys to Amass and ReconFTW
+5⃣  Profit
+end
